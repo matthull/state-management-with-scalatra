@@ -7,7 +7,7 @@ import com.mojolly.scalate.ScalatePlugin._
 import ScalateKeys._
 
 object Analytics_job_contextBuild extends Build {
-  val Organization = "com.sparkcentral"
+  val Organization = "com.example"
   val Name = "analytics_job_context"
   val Version = "0.1.0-SNAPSHOT"
   val ScalaVersion = "2.11.7"
